@@ -1,0 +1,25 @@
+body {
+    background-image: url("7.jpg");
+}
+#flex {
+    display:flex;
+    flex-direction: row;
+}
+h1 {
+    color: blue;
+}
+ul{
+    color: #191970;
+    font-style: italic;
+    font-size: 24px;
+}
+main{
+    text-align:justify;
+    font-size: 24px;
+}
+h1 {
+    text-align:center;
+}
+header{
+    text-align:center;
+}
